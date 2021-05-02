@@ -18,7 +18,7 @@
 <div align=center>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sweetrain369&hide=contribs,prs&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sweetrain36922&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sweetrain369&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
